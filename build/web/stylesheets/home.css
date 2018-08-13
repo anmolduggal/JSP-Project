@@ -1,0 +1,135 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 1, 2018, 10:49:46 AM
+    Author     : nEW u
+*/
+
+.a{
+	width:2em;
+}
+body{
+	background:white; 
+}
+.navheading{
+	color:white;
+	padding-right: 300px;
+	font-family: 'Merriweather', serif;
+	text-shadow: 4px 4px 9px #000000;
+}
+.navsubheading{
+	padding-right: 150px;
+	margin-left: 150px;
+	color:white;
+}
+.mar{
+margin-top:1%;
+padding-bottom:1%;
+}
+.gap{
+	margin-left:111px;
+	}
+#padder{
+	margin-left:3%;
+	margin-right: 3%
+}
+.jumbotron{
+	height:93%;
+	padding: 0.5rem;
+}
+.circle{
+
+  border-style: solid;
+  border-radius: 50% 50%;
+  -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:100px;
+    height: 100px;
+        padding-top: 18px;
+    padding-left: 0px;
+    background-color:#343a40;
+    color:white;
+    border-color: #6b6b6b;
+
+}
+.gap2{
+	margin-left:140px
+}
+.quick{
+		color:black;
+}
+.btn-primary {
+    color: #000;
+    background-color: #23325a4d;
+    border-color: #23325a4d;
+  }
+
+  .btn-outline-success {
+    color: #100b42;
+    background-color: transparent;
+    background-image: none;
+    border-color: #100b42;
+    box-shadow: 0 0 5px black;
+}
+.btn-light{
+  color: #080808;
+  background-color: #23325a4d;
+  border-color: #23325a4d;
+}
+.jumbotron{
+	background-color:#23325a4d;
+}
+.body1
+{
+      box-shadow: 0 0 20px black;
+}
+  .head
+  {
+        background-color: #100b42;
+        color: white;
+        box-shadow: 0 0 9px black;
+  }
+  .j
+  {
+            box-shadow: 0 0 15px black;
+  }
+  p{
+        color: #100b42;
+        
+  }
+div#demo {
+    color: black;
+    color: #100b42;
+    background-color: #23325a4d;
+    box-shadow: 0 0 16px 2px black;
+    }
+    h1
+    {
+      color: #100b42;
+    }
+    .head2{
+         color: #efe9e9;
+    background-color: #100b42;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 2%;
+    box-shadow: 0 0 10px 0px black;
+    text-shadow: 0 0 7px black;
+    }
+    
+.image1
+{
+    filter:grayscale(1%);
+transition: 1s;
+}
+.image1:hover                                 
+{
+filter:grayscale(0);
+transform: scale(1.1);
+}
+.card{
+    margin-bottom: 20px;
+}
